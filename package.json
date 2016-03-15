@@ -1,12 +1,13 @@
 {
-    "name": "store-app-data",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "author": "Mike Friedman",
-    "license": "ISC",
-    "private": true,
-    "dependencies": {
-        "lodash": "^3.9.3"
-    }
+  "name": "store-app-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Mike Friedman",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
+  }
 }
